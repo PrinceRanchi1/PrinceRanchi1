@@ -1,14 +1,14 @@
 <div align="center">
-  <img height="300" weight="500" src="https://github.com/ChandraShekharSaini/ChandraShekharSaini/blob/main/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966.gif?raw=true"  />
+  <img height="300" weight="500" src="https://github.com/PrinceRanchi1/PrinceRanchi1/blob/main/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966.gif?raw=true"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/chandra-shekhar-saini-772b53249/" target="_blank">
+  <a href="https://www.linkedin.com/in/princeranchi1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
- <a href="https://mail.google.com/mail/?view=cm&to=chandrashekharsaini322@gmail.com" target="_blank">
+ <a href="https://mail.google.com/mail/?view=cm&to=princeranchi1@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
 </a>
 
@@ -34,17 +34,17 @@
 ###
 
 
-# Hi there! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40" height="40" /> I'm Chandra Shekhar Saini
+# Hi there! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40" height="40" /> I'm Prince Kumar
  A full-stack Programmer who enjoys creating things that live on the internet. I look for creative ways to push the boundaries of a website's front-end and back-end code without compromising on the browser's ***support, and the security and performance,*** of the application and I focus on building **accessible**, **inclusive applications** and **digital experience** for a variety of clients. 
 
 
 
 <!-- - 🔭 I’m currently working on **[Dee-M](https://github.com/Exclusiveideas/Dee-M)** -->
-- 🌱 I’m currently working on **[VidTrim](https://github.com/ChandraShekharSaini/VidTrim.git)**
+- 🌱 I’m currently working on **[VidTrim](https://github.com/PrinceRanchi1/PrinceRanchi1.git)**
 <br />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/saini_shek33762?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://x.com/saini_shek33762) 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-shekhar-saini-772b53249/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princeranchi1/) 
 <!-- [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=WebMoney&logoColor=white)](https://exclusiveideas.vercel.app) 
 [![Resume](https://camo.githubusercontent.com/1703529ec72a87cde0bb2cd12c4c6ecf9d939483be1faba6a31629e1e4d6e51b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526573756d652d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d726561642d7468652d646f6373266c6f676f436f6c6f723d7768697465)](https://firebasestorage.googleapis.com/v0/b/exclusiveideas-c9470.appspot.com/o/gitHub_pictures%2FFullstack_resume.pdf?alt=media&token=d8c28e44-1398-49c7-9456-b0dc9d2bfaea) -->
 
